@@ -1,4 +1,4 @@
-package ru.Ilmira.lesson2;
+package ru.ilmira.lesson2;
 
 public class HomeWorkApp2 {
     public static void main(String[] args) {

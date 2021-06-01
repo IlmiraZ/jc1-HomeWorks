@@ -1,4 +1,4 @@
-package ru.Ilmira.lesson6;
+package ru.ilmira.lesson6;
 
 public class Cat extends Animal {
 

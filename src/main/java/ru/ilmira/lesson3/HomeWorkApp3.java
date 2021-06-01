@@ -1,4 +1,4 @@
-package ru.Ilmira.lesson3;
+package ru.ilmira.lesson3;
 
 import java.util.Random;
 

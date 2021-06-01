@@ -1,4 +1,4 @@
-package ru.Ilmira.lesson5;
+package ru.ilmira.lesson5;
 
 public class Main {
     public static void main(String[] args) {
